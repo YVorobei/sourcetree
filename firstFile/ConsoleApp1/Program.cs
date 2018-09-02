@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("log info level!");
+            Console.WriteLine("test new branch!");
         }
     }
 }
